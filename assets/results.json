@@ -1,0 +1,1997 @@
+{
+  "search": {
+    "totalHits": 92316,
+    "resultSuggestions": { "didYouMean": ["mood"] },
+    "results": [
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.1585182",
+        "abstract": {
+          "value": "Summary: Die-cut pages show the phases of the moon as it shines on animals all over the world, from sea turtles laying eggs on the beach to frogs in the jungle and mice in the fields."
+        },
+        "bookEdition": "First American edition.",
+        "contributors": [
+          { "name": "Teckentrup, Britta", "type": "illustrator" }
+        ],
+        "docType": ["Fiction"],
+        "identifier": "991367840",
+        "isbn": ["9781524769666", "1524769665"],
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "20180101",
+        "pubType": ["Book"],
+        "title": {
+          "value": "Moon : a peek-through picture book / illustrated by Britta Teckentrup.",
+          "locale": "en"
+        },
+        "subject": [
+          "Moon -- Phases -- Fiction",
+          "Toy and movable books -- Specimens",
+          "Stories in rhyme",
+          "Night -- Fiction",
+          "Animals -- Fiction",
+          "Toy and movable books",
+          "JUVENILE NONFICTION / Science & Nature / Astronomy",
+          "JUVENILE NONFICTION / Animals / General",
+          "JUVENILE NONFICTION / Concepts / Seasons"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=9781524769666",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9781524769666"
+        ],
+        "keywords": [
+          "Toy and movable books -- Specimens",
+          "Stories in rhyme",
+          "Night -- Fiction",
+          "Animals -- Fiction",
+          "Toy and movable books",
+          "JUVENILE NONFICTION / Science & Nature / Astronomy",
+          "JUVENILE NONFICTION / Animals / General",
+          "JUVENILE NONFICTION / Concepts / Seasons",
+          "Moon -- Phases -- Fiction"
+        ],
+        "coverDate": null,
+        "peerReviewed": null,
+        "source": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1585182&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.1585182",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1585182&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.1585182",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1585182&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.1585182",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.1585182&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D9781524769666",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.1585182&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D9781524769666"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.1599136",
+        "abstract": {
+          "value": "Summary: Throughout her busy days, Moon wonders what it would be like to be wild and free until the day she meets a wolf and learns his 'wolfy ways.'--Provided by Publisher."
+        },
+        "contributors": [{ "name": "Oliver, Alison", "type": "author" }],
+        "docType": ["Fiction"],
+        "identifier": "996972151",
+        "isbn": ["9781328781604", "1328781607"],
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "20180101",
+        "publisher": "Clarion Books is an imprint of Houghton Mifflin Harcourt Publishing Company",
+        "pubType": ["Book"],
+        "title": { "value": "Moon / Alison Oliver.", "locale": "en" },
+        "subject": [
+          "Wolves -- Juvenile fiction",
+          "Liberty -- Juvenile fiction",
+          "Picture books"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=9781328781604",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9781328781604"
+        ],
+        "keywords": [
+          "Wolves -- Juvenile fiction",
+          "Liberty -- Juvenile fiction",
+          "Picture books"
+        ],
+        "coverDate": null,
+        "peerReviewed": null,
+        "source": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1599136&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.1599136",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1599136&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.1599136",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1599136&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.1599136",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.1599136&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D9781328781604",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.1599136&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D9781328781604"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.1616602",
+        "abstract": {
+          "value": "Summary: Using werewolves and Wernher von Braun, Stonehenge and the sex lives of sea corals, aboriginal myths, and an Anglican bishop in this new book, the author weaves variegated information into a glimpse of Earth's closest celestial neighbor, whose mere presence inspires us to wonder what might be out there. Going beyond the discoveries of contemporary science, he presents a cultural assessment of our complex relationship with Earth's lifeless, rocky satellite. As well as offering an engaging perspective on such age old questions as 'What would Earth be like without the moon?' he surveys the moon's mythical and religious significance and provokes existential soul searching through a lunar lens, inquiring, 'Forty years ago, the first man put his footprint on the moon. Will we continue to use it as the screen onto which we cast our hopes and fears?' Drawing on materials from different cultures and epochs, he walks readers down a moonlit path illuminated by more than seventy-five vintage photographs and illustrations. From scientific discussions of the moon's origins and its chronobiological effects on the mating and feeding habits of animals to an illuminating interpretation of Bishop Francis Godwin's 1638 novel The Man in the Moone, his interdisciplinary explorations recast a familiar object in an original light."
+        },
+        "contributors": [{ "name": "Brunner, Bernd", "type": "author" }],
+        "docType": ["Bibliographies", "Non-fiction", "Electronic document"],
+        "identifier": "808346517",
+        "isbn": ["9780300168709", "0300168705"],
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "20100101",
+        "publisher": "Yale University Press",
+        "pubType": ["Book", "Computer File"],
+        "title": {
+          "value": "Moon : a brief history / Bernd Brunner.",
+          "locale": "en"
+        },
+        "source": "JSTOR EBA",
+        "subject": [
+          "Moon",
+          "Moon -- Miscellanea",
+          "Moon -- Mythology",
+          "Moon -- Religious aspects"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=9780300168709",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9780300168709"
+        ],
+        "keywords": [
+          "Moon",
+          "Moon -- Miscellanea",
+          "Moon -- Mythology",
+          "Moon -- Religious aspects"
+        ],
+        "coverDate": null,
+        "peerReviewed": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1616602&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.1616602",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1616602&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.1616602",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1616602&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.1616602",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.1616602&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D9780300168709",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.1616602&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D9780300168709"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.1269976",
+        "abstract": {
+          "value": "Summary: Using werewolves and Wernher von Braun, Stonehenge and the sex lives of sea corals, aboriginal myths, and an Anglican bishop in this new book, the author weaves variegated information into a glimpse of Earth's closest celestial neighbor, whose mere presence inspires us to wonder what might be out there. Going beyond the discoveries of contemporary science, he presents a cultural assessment of our complex relationship with Earth's lifeless, rocky satellite. As well as offering an engaging perspective on such age old questions as 'What would Earth be like without the moon?' he surveys the moon's mythical and religious significance and provokes existential soul searching through a lunar lens, inquiring, 'Forty years ago, the first man put his footprint on the moon. Will we continue to use it as the screen onto which we cast our hopes and fears?' Drawing on materials from different cultures and epochs, he walks readers down a moonlit path illuminated by more than seventy-five vintage photographs and illustrations. From scientific discussions of the moon's origins and its chronobiological effects on the mating and feeding habits of animals to an illuminating interpretation of Bishop Francis Godwin's 1638 novel The Man in the Moone, his interdisciplinary explorations recast a familiar object in an original light."
+        },
+        "contributors": [{ "name": "Brunner, Bernd" }],
+        "docType": ["Bibliographies", "Non-fiction"],
+        "identifier": "601348237",
+        "isbn": [
+          "9780300152128 (cloth : alk. paper)",
+          "0300152124 (cloth : alk. paper)"
+        ],
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "20100101",
+        "publisher": "Yale University Press",
+        "pubType": ["Book"],
+        "title": {
+          "value": "Moon : a brief history / Bernd Brunner.",
+          "locale": "en"
+        },
+        "subject": [
+          "Moon",
+          "Moon -- Miscellanea",
+          "Moon -- Mythology",
+          "Moon -- Religious aspects"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=9780300152128",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=9780300152128"
+        ],
+        "keywords": [
+          "Moon",
+          "Moon -- Miscellanea",
+          "Moon -- Mythology",
+          "Moon -- Religious aspects"
+        ],
+        "coverDate": null,
+        "peerReviewed": null,
+        "source": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1269976&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.1269976",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1269976&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.1269976",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1269976&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.1269976",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.1269976&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D9780300152128",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.1269976&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D9780300152128"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.1112435",
+        "abstract": {
+          "value": "Summary: Astronaut Sam Bell is completing a three-year contract with Lunar Industries to mine Earth's primary source of energy on the dark side of the moon: Helium-3. His declining health is causing headaches and hallucinations that lead to a near-fatal accident, rendering him unconscious. After recuperating, an unexpected discovery leads him to doubt his sanity, his identity, and the integrity of the company. Believing he is alone on his mission, his sole purpose is getting back home on his own."
+        },
+        "docType": ["Videorecording"],
+        "identifier": ["456298221", "043396315259"],
+        "isbn": ["1435974743", "9781435974746 :"],
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "20090101",
+        "publisher": "Sony Pictures Home Entertainment",
+        "pubType": ["Video"],
+        "title": {
+          "value": "Moon [videorecording (DVD)] / Sony Pictures Classics ; a Liberty Films production in association with Xingu Films and Limelight ; producers, Stuart Fenegan, Trudie Styler ; story by Duncan Jones ; written by Nathan Parker ; directed by Duncan Jones.",
+          "locale": "en"
+        },
+        "subject": [
+          "Outer space -- Exploration -- Drama",
+          "Moon -- Drama",
+          "Astronauts -- Drama",
+          "Helium -- Drama",
+          "Mining engineering -- Drama",
+          "Headache -- Drama",
+          "Hallucinations and illusions -- Drama",
+          "Discoveries in geography -- Drama",
+          "Science fiction films",
+          "Action and adventure films",
+          "Video recordings for the hearing impaired",
+          "Feature films"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=043396315259",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=043396315259"
+        ],
+        "keywords": [
+          "Astronauts -- Drama",
+          "Helium -- Drama",
+          "Mining engineering -- Drama",
+          "Headache -- Drama",
+          "Hallucinations and illusions -- Drama",
+          "Discoveries in geography -- Drama",
+          "Science fiction films",
+          "Action and adventure films",
+          "Video recordings for the hearing impaired",
+          "Feature films",
+          "Outer space -- Exploration -- Drama",
+          "Moon -- Drama"
+        ],
+        "contributors": null,
+        "coverDate": null,
+        "peerReviewed": null,
+        "source": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1112435&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.1112435",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1112435&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.1112435",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1112435&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.1112435",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.1112435&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D043396315259",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.1112435&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D043396315259"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.1045611",
+        "abstract": {
+          "value": "Summary: Students will learn about how the Moon has been studied throught out history - including recent lunar missions - and about its phases, eclipses and how it causes tides on Earth. A fun, hands-on activity will demonstrate the effect of the Moon's gravity on weight."
+        },
+        "docType": ["Videorecording"],
+        "identifier": ["70185253", "753201158239"],
+        "isbn": ["141710614X :", "9781417106141"],
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "20060101",
+        "publisher": "Schlessinger Media",
+        "pubType": ["Video"],
+        "title": {
+          "value": "Moon [videorecording (DVD)] / produced and directed by JWM Productions, LLC ; executive producers, Andrew Schlessinger & Tracy Mitchell.",
+          "locale": "en"
+        },
+        "source": "Schlessinger science library",
+        "volume": "Space science in action",
+        "subject": [
+          "Moon -- Juvenile films",
+          "Moon",
+          "Luna",
+          "Educational videos",
+          "Video recordings for children",
+          "Video recordings for the hearing impaired"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=753201158239",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=753201158239"
+        ],
+        "keywords": [
+          "Educational videos",
+          "Video recordings for children",
+          "Video recordings for the hearing impaired",
+          "Moon -- Juvenile films",
+          "Moon",
+          "Luna"
+        ],
+        "contributors": null,
+        "coverDate": null,
+        "peerReviewed": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1045611&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.1045611",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1045611&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.1045611",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.1045611&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.1045611",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.1045611&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D753201158239",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.1045611&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D753201158239"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "cat00767a",
+        "longDBName": "Abilene Library Consortium Catalog",
+        "an": "alc.532726",
+        "bookEdition": "1st ed.",
+        "contributors": [{ "name": "Fletcher, Tony" }],
+        "docType": [
+          "Bibliographies",
+          "Discographies",
+          "Non-fiction",
+          "Individual biography"
+        ],
+        "isbn": "0380973375",
+        "isiType": "Book",
+        "language": "eng",
+        "publicationDate": "19990101",
+        "publisher": "Spike",
+        "pubType": ["Book"],
+        "title": {
+          "value": "Moon : the life and death of a rock legend / Tony Fletcher.",
+          "locale": "en"
+        },
+        "subject": [
+          "Rock musicians -- England -- Biography",
+          "Who (Musical group)",
+          "Moon, Keith, 1946-1978"
+        ],
+        "coverArt": [
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=S&Value=0380973375",
+          "http://contentcafe2.btol.com/ContentCafe/jacket.aspx?UserID=ebsco-test&Password=ebsco-test&Return=T&Type=M&Value=0380973375"
+        ],
+        "keywords": [
+          "Moon, Keith, 1946-1978",
+          "Who (Musical group)",
+          "Rock musicians -- England -- Biography"
+        ],
+        "abstract": null,
+        "coverDate": null,
+        "peerReviewed": null,
+        "source": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.532726&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "alc.532726",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.532726&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "alc.532726",
+              "shortDbName": "cat00767a"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=cat00767a&type=customLink&an=alc.532726&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "alc.532726",
+              "shortDbName": "cat00767a"
+            }
+          ],
+          "imageLinks": [
+            {
+              "type": "cover",
+              "alt": "placeholder image",
+              "original": "/linkprocessor/imageLinks?size=medium&type=cover&an=alc.532726&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DM%26Value%3D0380973375",
+              "thumbnail": "/linkprocessor/imageLinks?size=thumb&type=cover&an=alc.532726&url=http%3A%2F%2Fcontentcafe2.btol.com%2FContentCafe%2Fjacket.aspx%3FUserID%3Debsco-test%26Password%3Debsco-test%26Return%3DT%26Type%3DS%26Value%3D0380973375"
+            }
+          ]
+        }
+      },
+      {
+        "shortDBName": "asn",
+        "longDBName": "Academic Search Ultimate",
+        "an": "133536878",
+        "title": { "value": "Moon Jae-In.", "locale": "en" },
+        "contributors": [
+          { "name": "Campbell, Charlie" },
+          { "name": "Kim, Stephen" }
+        ],
+        "docType": ["Article"],
+        "pubType": ["Periodical"],
+        "source": "TIME Magazine",
+        "publicationDate": "20181224",
+        "coverDate": "12/24/2018",
+        "issn": "0040-781X",
+        "issue": "27/28",
+        "volume": "192",
+        "language": "English",
+        "pageEnd": "110",
+        "pageStart": "104",
+        "publisher": "TIME USA, LLC",
+        "isiType": "JOUR",
+        "subject": [
+          "TIME'S Person of the Year selections",
+          "KOREA (North)-Korea (South) relations",
+          "PRESIDENTS",
+          "NUCLEAR-weapon-free zones",
+          "KOREAN reunification question (1945- )",
+          "KOREA (South)",
+          "MOON, Jae-In, 1953-",
+          "KIM, Chong-un, 1984-",
+          "TRUMP, Donald, 1946-"
+        ],
+        "keywords": [
+          "MOON, Jae-In, 1953-",
+          "KIM, Chong-un, 1984-",
+          "TRUMP, Donald, 1946-",
+          "TIME'S Person of the Year selections",
+          "KOREA (North)-Korea (South) relations",
+          "PRESIDENTS",
+          "NUCLEAR-weapon-free zones",
+          "KOREAN reunification question (1945- )",
+          "KOREA (South)"
+        ],
+        "abstract": null,
+        "peerReviewed": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=133536878&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "133536878",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=133536878&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "133536878",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=133536878&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "133536878",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "htmlFullText",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=htmlFullText&an=133536878",
+              "linkText": "HTML Full Text",
+              "an": "133536878",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "pdfFullText",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=pdflink&an=133536878",
+              "linkText": "PDF Full Text",
+              "an": "133536878",
+              "shortDbName": "asn"
+            }
+          ],
+          "imageLinks": []
+        }
+      },
+      {
+        "shortDBName": "asn",
+        "longDBName": "Academic Search Ultimate",
+        "an": "134122487",
+        "title": {
+          "value": "Bacteria associated with moon jellyfish during bloom and post-bloom periods in the Gulf of Trieste (northern Adriatic).",
+          "locale": "en"
+        },
+        "contributors": [
+          { "name": "Kos Kramar, Maja" },
+          { "name": "Tinta, Tinkara" },
+          { "name": "Lučić, Davor" },
+          { "name": "Malej, Alenka" },
+          { "name": "Turk, Valentina" }
+        ],
+        "docType": ["Article"],
+        "pubType": ["Academic Journal"],
+        "source": "PLoS ONE",
+        "publicationDate": "20190115",
+        "coverDate": "1/15/2019",
+        "peerReviewed": true,
+        "doi": "10.1371/journal.pone.0198056",
+        "issn": "1932-6203",
+        "issue": "1",
+        "volume": "14",
+        "language": "English",
+        "pageEnd": "21",
+        "pageStart": "1",
+        "publisher": "Public Library of Science",
+        "isiType": "JOUR",
+        "subject": [
+          "MOON jelly (Cnidaria)",
+          "MARINE bacteria",
+          "JELLYFISH blooms",
+          "BACTERIA",
+          "JELLYFISHES"
+        ],
+        "keywords": [
+          "MOON jelly (Cnidaria)",
+          "MARINE bacteria",
+          "JELLYFISH blooms",
+          "BACTERIA",
+          "JELLYFISHES"
+        ],
+        "abstract": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=134122487&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "134122487",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=134122487&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "134122487",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=134122487&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "134122487",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "htmlFullText",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=htmlFullText&an=134122487",
+              "linkText": "HTML Full Text",
+              "an": "134122487",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "pdfFullText",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=pdflink&an=134122487",
+              "linkText": "PDF Full Text",
+              "an": "134122487",
+              "shortDbName": "asn"
+            }
+          ],
+          "imageLinks": []
+        }
+      },
+      {
+        "shortDBName": "asn",
+        "longDBName": "Academic Search Ultimate",
+        "an": "134691279",
+        "title": {
+          "value": "Undergraduate students' understanding of the Moon phase change in a course for trainee teachers in compulsory education.",
+          "locale": "en"
+        },
+        "contributors": [
+          { "name": "Deustua, S." },
+          { "name": "Eastwood, K." },
+          { "name": "ten Kate, I.L." },
+          { "name": "Kawamura, Norihito" },
+          { "name": "Naganuma, Yuusei" }
+        ],
+        "docType": ["Article"],
+        "pubType": ["Conference Proceeding"],
+        "source": "EPJ Web of Conferences",
+        "publicationDate": "20190215",
+        "coverDate": "2019",
+        "doi": "10.1051/epjconf/201920002008",
+        "issn": "2100-014X",
+        "volume": "200",
+        "language": "English",
+        "pageEnd": "N.PAG",
+        "pageStart": "N.PAG",
+        "publisher": "EDP Sciences",
+        "isiType": "JOUR",
+        "subject": [
+          "MOON",
+          "TEACHER training",
+          "LUNAR eclipses",
+          "CONCEPTUAL models",
+          "ASTRONOMY education"
+        ],
+        "keywords": [
+          "MOON",
+          "TEACHER training",
+          "LUNAR eclipses",
+          "CONCEPTUAL models",
+          "ASTRONOMY education"
+        ],
+        "abstract": null,
+        "peerReviewed": null,
+        "links": {
+          "fullTextLinks": [
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=134691279&linkName=EBSCO+Next+Custom+Link+Test",
+              "linkText": "EBSCO Next Custom Link Test",
+              "an": "134691279",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=134691279&linkName=ATLA+Test",
+              "linkText": "ATLA Test",
+              "an": "134691279",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "customLink",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=customLink&an=134691279&linkName=Chris%27s+test+link",
+              "linkText": "Chris's test link",
+              "an": "134691279",
+              "shortDbName": "asn"
+            },
+            {
+              "type": "pdfFullText",
+              "url": "/linkprocessor/fullTextLinks?dbid=asn&type=pdflink&an=134691279",
+              "linkText": "PDF Full Text",
+              "an": "134691279",
+              "shortDbName": "asn"
+            }
+          ],
+          "imageLinks": []
+        }
+      }
+    ],
+    "facets": [
+      {
+        "id": "SourceType",
+        "label": "Source Type",
+        "values": [
+          {
+            "count": 47921,
+            "value": "Academic Journals",
+            "query": "SourceType:Academic Journals"
+          },
+          {
+            "count": 16311,
+            "value": "Magazines",
+            "query": "SourceType:Magazines"
+          },
+          { "count": 14704, "value": "Reviews", "query": "SourceType:Reviews" },
+          { "count": 5244, "value": "Books", "query": "SourceType:Books" },
+          { "count": 4960, "value": "News", "query": "SourceType:News" },
+          {
+            "count": 2689,
+            "value": "Trade Publications",
+            "query": "SourceType:Trade Publications"
+          },
+          { "count": 383, "value": "Videos", "query": "SourceType:Videos" },
+          {
+            "count": 320,
+            "value": "Electronic Resources",
+            "query": "SourceType:Electronic Resources"
+          },
+          {
+            "count": 308,
+            "value": "Conference Materials",
+            "query": "SourceType:Conference Materials"
+          },
+          { "count": 303, "value": "Audio", "query": "SourceType:Audio" },
+          {
+            "count": 274,
+            "value": "Dissertations/Theses",
+            "query": "SourceType:Dissertations/Theses"
+          },
+          {
+            "count": 175,
+            "value": "Music Scores",
+            "query": "SourceType:Music Scores"
+          },
+          { "count": 76, "value": "eBooks", "query": "SourceType:eBooks" },
+          {
+            "count": 53,
+            "value": "Biographies",
+            "query": "SourceType:Biographies"
+          },
+          { "count": 43, "value": "Reports", "query": "SourceType:Reports" },
+          { "count": 13, "value": "Maps", "query": "SourceType:Maps" },
+          {
+            "count": 13,
+            "value": "Non-Print Resources",
+            "query": "SourceType:Non-Print Resources"
+          },
+          {
+            "count": 3,
+            "value": "Primary Source Documents",
+            "query": "SourceType:Primary Source Documents"
+          }
+        ]
+      },
+      {
+        "id": "SubjectEDS",
+        "label": "Subject",
+        "values": [
+          { "count": 5481, "value": "fiction", "query": "SubjectEDS:fiction" },
+          { "count": 5192, "value": "moon", "query": "SubjectEDS:moon" },
+          { "count": 3258, "value": "human", "query": "SubjectEDS:human" },
+          {
+            "count": 3138,
+            "value": "nonfiction",
+            "query": "SubjectEDS:nonfiction"
+          },
+          {
+            "count": 3053,
+            "value": "natural satellites",
+            "query": "SubjectEDS:natural satellites"
+          },
+          {
+            "count": 1965,
+            "value": "united states. national aeronautics & space administration",
+            "query": "SubjectEDS:united states. national aeronautics & space administration"
+          },
+          {
+            "count": 1862,
+            "value": "astronomy",
+            "query": "SubjectEDS:astronomy"
+          },
+          {
+            "count": 1842,
+            "value": "adulthood (18 yrs & older)",
+            "query": "SubjectEDS:adulthood \\(18 yrs & older\\)"
+          },
+          {
+            "count": 1825,
+            "value": "lunar exploration",
+            "query": "SubjectEDS:lunar exploration"
+          },
+          { "count": 1772, "value": "male", "query": "SubjectEDS:male" },
+          { "count": 1724, "value": "female", "query": "SubjectEDS:female" },
+          {
+            "count": 1598,
+            "value": "astronomical observations",
+            "query": "SubjectEDS:astronomical observations"
+          },
+          {
+            "count": 1588,
+            "value": "space exploration",
+            "query": "SubjectEDS:space exploration"
+          },
+          {
+            "count": 1402,
+            "value": "solar system",
+            "query": "SubjectEDS:solar system"
+          },
+          {
+            "count": 1312,
+            "value": "children's literature",
+            "query": "SubjectEDS:children's literature"
+          },
+          {
+            "count": 1236,
+            "value": "space vehicles",
+            "query": "SubjectEDS:space vehicles"
+          },
+          { "count": 1133, "value": "humans", "query": "SubjectEDS:humans" },
+          { "count": 1038, "value": "planets", "query": "SubjectEDS:planets" },
+          {
+            "count": 1035,
+            "value": "lunar surface",
+            "query": "SubjectEDS:lunar surface"
+          },
+          {
+            "count": 809,
+            "value": "pan, ki-mun, 1944-",
+            "query": "SubjectEDS:pan\\, ki-mun\\, 1944-"
+          },
+          {
+            "count": 797,
+            "value": "earth (planet)",
+            "query": "SubjectEDS:earth \\(planet\\)"
+          },
+          {
+            "count": 779,
+            "value": "space flight to the moon",
+            "query": "SubjectEDS:space flight to the moon"
+          },
+          {
+            "count": 773,
+            "value": "lunar craters",
+            "query": "SubjectEDS:lunar craters"
+          },
+          { "count": 689, "value": "patients", "query": "SubjectEDS:patients" },
+          {
+            "count": 662,
+            "value": "saturn (planet)",
+            "query": "SubjectEDS:saturn \\(planet\\)"
+          },
+          {
+            "count": 659,
+            "value": "satellites of jupiter",
+            "query": "SubjectEDS:satellites of jupiter"
+          },
+          {
+            "count": 652,
+            "value": "gene expression",
+            "query": "SubjectEDS:gene expression"
+          },
+          {
+            "count": 642,
+            "value": "satellites of saturn",
+            "query": "SubjectEDS:satellites of saturn"
+          },
+          {
+            "count": 632,
+            "value": "observations of the moon",
+            "query": "SubjectEDS:observations of the moon"
+          },
+          {
+            "count": 618,
+            "value": "research article",
+            "query": "SubjectEDS:research article"
+          },
+          {
+            "count": 616,
+            "value": "treatment",
+            "query": "SubjectEDS:treatment"
+          },
+          { "count": 610, "value": "research", "query": "SubjectEDS:research" },
+          {
+            "count": 583,
+            "value": "diagnosis",
+            "query": "SubjectEDS:diagnosis"
+          },
+          {
+            "count": 580,
+            "value": "jupiter (planet)",
+            "query": "SubjectEDS:jupiter \\(planet\\)"
+          },
+          {
+            "count": 575,
+            "value": "europa (satellite)",
+            "query": "SubjectEDS:europa \\(satellite\\)"
+          },
+          {
+            "count": 574,
+            "value": "asteroids",
+            "query": "SubjectEDS:asteroids"
+          },
+          {
+            "count": 569,
+            "value": "space probes",
+            "query": "SubjectEDS:space probes"
+          },
+          {
+            "count": 559,
+            "value": "magnetic resonance imaging",
+            "query": "SubjectEDS:magnetic resonance imaging"
+          },
+          {
+            "count": 559,
+            "value": "titan (satellite)",
+            "query": "SubjectEDS:titan \\(satellite\\)"
+          },
+          {
+            "count": 555,
+            "value": "mars (planet)",
+            "query": "SubjectEDS:mars \\(planet\\)"
+          },
+          {
+            "count": 531,
+            "value": "comparative studies",
+            "query": "SubjectEDS:comparative studies"
+          },
+          {
+            "count": 517,
+            "value": "therapeutic use",
+            "query": "SubjectEDS:therapeutic use"
+          },
+          {
+            "count": 516,
+            "value": "artificial satellites",
+            "query": "SubjectEDS:artificial satellites"
+          },
+          {
+            "count": 503,
+            "value": "sunrise & sunset",
+            "query": "SubjectEDS:sunrise & sunset"
+          },
+          { "count": 496, "value": "books", "query": "SubjectEDS:books" },
+          {
+            "count": 492,
+            "value": "young adulthood (18-29 yrs)",
+            "query": "SubjectEDS:young adulthood \\(18-29 yrs\\)"
+          },
+          {
+            "count": 487,
+            "value": "lunar eclipses",
+            "query": "SubjectEDS:lunar eclipses"
+          },
+          {
+            "count": 482,
+            "value": "lunar phases",
+            "query": "SubjectEDS:lunar phases"
+          },
+          {
+            "count": 472,
+            "value": "middle age (40-64 yrs)",
+            "query": "SubjectEDS:middle age \\(40-64 yrs\\)"
+          },
+          {
+            "count": 471,
+            "value": "letters to the editor",
+            "query": "SubjectEDS:letters to the editor"
+          }
+        ]
+      },
+      {
+        "id": "Journal",
+        "label": "Publication",
+        "values": [
+          {
+            "count": 2420,
+            "value": "school library journal",
+            "query": "Journal:school library journal"
+          },
+          {
+            "count": 2407,
+            "value": "new york times",
+            "query": "Journal:new york times"
+          },
+          {
+            "count": 2402,
+            "value": "publishers weekly",
+            "query": "Journal:publishers weekly"
+          },
+          { "count": 1846, "value": "booklist", "query": "Journal:booklist" },
+          { "count": 1821, "value": "astronomy", "query": "Journal:astronomy" },
+          {
+            "count": 1804,
+            "value": "sky & telescope",
+            "query": "Journal:sky & telescope"
+          },
+          {
+            "count": 1348,
+            "value": "kirkus reviews",
+            "query": "Journal:kirkus reviews"
+          },
+          {
+            "count": 1326,
+            "value": "library journal",
+            "query": "Journal:library journal"
+          },
+          { "count": 1209, "value": "usa today", "query": "Journal:usa today" },
+          { "count": 1158, "value": "icarus", "query": "Journal:icarus" },
+          {
+            "count": 976,
+            "value": "new scientist",
+            "query": "Journal:new scientist"
+          },
+          { "count": 852, "value": "science", "query": "Journal:science" },
+          {
+            "count": 755,
+            "value": "salem press encyclopedia of literature",
+            "query": "Journal:salem press encyclopedia of literature"
+          },
+          { "count": 731, "value": "plos one", "query": "Journal:plos one" },
+          {
+            "count": 651,
+            "value": "salem press encyclopedia",
+            "query": "Journal:salem press encyclopedia"
+          },
+          {
+            "count": 624,
+            "value": "aviation week & space technology",
+            "query": "Journal:aviation week & space technology"
+          },
+          { "count": 593, "value": "nature", "query": "Journal:nature" },
+          {
+            "count": 573,
+            "value": "advances in space research",
+            "query": "Journal:advances in space research"
+          },
+          {
+            "count": 553,
+            "value": "science news",
+            "query": "Journal:science news"
+          },
+          {
+            "count": 529,
+            "value": "planetary & space science",
+            "query": "Journal:planetary & space science"
+          },
+          {
+            "count": 517,
+            "value": "acta astronautica",
+            "query": "Journal:acta astronautica"
+          },
+          { "count": 491, "value": "ad astra", "query": "Journal:ad astra" },
+          {
+            "count": 474,
+            "value": "astrophysical journal",
+            "query": "Journal:astrophysical journal"
+          },
+          {
+            "count": 470,
+            "value": "aip conference proceedings",
+            "query": "Journal:aip conference proceedings"
+          },
+          {
+            "count": 468,
+            "value": "salem press biographical encyclopedia",
+            "query": "Journal:salem press biographical encyclopedia"
+          },
+          {
+            "count": 446,
+            "value": "new york times book review",
+            "query": "Journal:new york times book review"
+          },
+          {
+            "count": 441,
+            "value": "time magazine",
+            "query": "Journal:time magazine"
+          },
+          {
+            "count": 434,
+            "value": "christian science monitor",
+            "query": "Journal:christian science monitor"
+          },
+          { "count": 429, "value": "billboard", "query": "Journal:billboard" },
+          {
+            "count": 406,
+            "value": "salem press encyclopedia of science",
+            "query": "Journal:salem press encyclopedia of science"
+          },
+          {
+            "count": 393,
+            "value": "monthly notices of the royal astronomical society",
+            "query": "Journal:monthly notices of the royal astronomical society"
+          },
+          {
+            "count": 385,
+            "value": "applied physics letters",
+            "query": "Journal:applied physics letters"
+          },
+          {
+            "count": 350,
+            "value": "rolling stone",
+            "query": "Journal:rolling stone"
+          },
+          {
+            "count": 340,
+            "value": "wall street journal - eastern edition",
+            "query": "Journal:wall street journal - eastern edition"
+          },
+          {
+            "count": 329,
+            "value": "natural history",
+            "query": "Journal:natural history"
+          },
+          {
+            "count": 317,
+            "value": "frontier star (pakistan)",
+            "query": "Journal:frontier star \\(pakistan\\)"
+          },
+          {
+            "count": 298,
+            "value": "horn book magazine",
+            "query": "Journal:horn book magazine"
+          },
+          {
+            "count": 282,
+            "value": "library media connection",
+            "query": "Journal:library media connection"
+          },
+          {
+            "count": 271,
+            "value": "dissertation abstracts international",
+            "query": "Journal:dissertation abstracts international"
+          },
+          {
+            "count": 175,
+            "value": "wall street journal (online)",
+            "query": "Journal:wall street journal \\(online\\)"
+          },
+          {
+            "count": 144,
+            "value": "dissertation abstracts international: section b: the sciences and engineering",
+            "query": "Journal:dissertation abstracts international\\: section b\\: the sciences and engineering"
+          },
+          {
+            "count": 127,
+            "value": "dissertation abstracts international section a: humanities and social sciences",
+            "query": "Journal:dissertation abstracts international section a\\: humanities and social sciences"
+          },
+          {
+            "count": 116,
+            "value": "journal of visual impairment & blindness",
+            "query": "Journal:journal of visual impairment & blindness"
+          },
+          {
+            "count": 84,
+            "value": "journal of sexual medicine",
+            "query": "Journal:journal of sexual medicine"
+          },
+          {
+            "count": 74,
+            "value": "current science (00113891)",
+            "query": "Journal:current science \\(00113891\\)"
+          },
+          {
+            "count": 57,
+            "value": "chronicle of higher education",
+            "query": "Journal:chronicle of higher education"
+          },
+          {
+            "count": 40,
+            "value": "journal of the neurological sciences",
+            "query": "Journal:journal of the neurological sciences"
+          },
+          {
+            "count": 6,
+            "value": "international journal of human-computer studies",
+            "query": "Journal:international journal of human-computer studies"
+          },
+          {
+            "count": 1,
+            "value": "acls humanities e-book.",
+            "query": "Journal:acls humanities e-book."
+          },
+          {
+            "count": 1,
+            "value": "eisenhower's sputnik moment.",
+            "query": "Journal:eisenhower's sputnik moment."
+          }
+        ]
+      },
+      {
+        "id": "Publisher",
+        "label": "Publisher",
+        "values": [
+          {
+            "count": 12672,
+            "value": "elsevier b.v.",
+            "query": "Publisher:elsevier b.v."
+          },
+          {
+            "count": 5138,
+            "value": "springer nature",
+            "query": "Publisher:springer nature"
+          },
+          {
+            "count": 4068,
+            "value": "media source, inc.",
+            "query": "Publisher:media source\\, inc."
+          },
+          {
+            "count": 3246,
+            "value": "wiley-blackwell",
+            "query": "Publisher:wiley-blackwell"
+          },
+          {
+            "count": 2972,
+            "value": "new york times",
+            "query": "Publisher:new york times"
+          },
+          {
+            "count": 2497,
+            "value": "taylor & francis ltd",
+            "query": "Publisher:taylor & francis ltd"
+          },
+          {
+            "count": 2483,
+            "value": "pwxyz llc",
+            "query": "Publisher:pwxyz llc"
+          },
+          {
+            "count": 2248,
+            "value": "academic press inc.",
+            "query": "Publisher:academic press inc."
+          },
+          {
+            "count": 2050,
+            "value": "american library association",
+            "query": "Publisher:american library association"
+          },
+          {
+            "count": 1395,
+            "value": "oxford university press / usa",
+            "query": "Publisher:oxford university press / usa"
+          },
+          {
+            "count": 1348,
+            "value": "kirkus media, llc",
+            "query": "Publisher:kirkus media\\, llc"
+          },
+          { "count": 1201, "value": "ieee", "query": "Publisher:ieee" },
+          {
+            "count": 801,
+            "value": "public library of science",
+            "query": "Publisher:public library of science"
+          },
+          {
+            "count": 719,
+            "value": "dow jones & company inc",
+            "query": "Publisher:dow jones & company inc"
+          },
+          {
+            "count": 695,
+            "value": "elsevier science",
+            "query": "Publisher:elsevier science"
+          },
+          {
+            "count": 497,
+            "value": "lippincott williams & wilkins",
+            "query": "Publisher:lippincott williams & wilkins"
+          },
+          {
+            "count": 453,
+            "value": "abc-clio - library media connection",
+            "query": "Publisher:abc-clio - library media connection"
+          },
+          {
+            "count": 408,
+            "value": "taylor & francis",
+            "query": "Publisher:taylor & francis"
+          },
+          {
+            "count": 400,
+            "value": "sage publications",
+            "query": "Publisher:sage publications"
+          },
+          {
+            "count": 352,
+            "value": "wiley-blackwell publishing ltd.",
+            "query": "Publisher:wiley-blackwell publishing ltd."
+          },
+          {
+            "count": 325,
+            "value": "mary ann liebert, inc.",
+            "query": "Publisher:mary ann liebert\\, inc."
+          },
+          {
+            "count": 317,
+            "value": "cambridge university press",
+            "query": "Publisher:cambridge university press"
+          },
+          { "count": 280, "value": "springer", "query": "Publisher:springer" },
+          {
+            "count": 278,
+            "value": "blackwell publishing",
+            "query": "Publisher:blackwell publishing"
+          },
+          {
+            "count": 272,
+            "value": "proquest information & learning",
+            "query": "Publisher:proquest information & learning"
+          },
+          {
+            "count": 225,
+            "value": "columbia university press",
+            "query": "Publisher:columbia university press"
+          },
+          {
+            "count": 198,
+            "value": "el kurdyla publishing llc",
+            "query": "Publisher:el kurdyla publishing llc"
+          },
+          {
+            "count": 164,
+            "value": "ios press",
+            "query": "Publisher:ios press"
+          },
+          {
+            "count": 139,
+            "value": "american psychological association",
+            "query": "Publisher:american psychological association"
+          },
+          {
+            "count": 131,
+            "value": "university of chicago press",
+            "query": "Publisher:university of chicago press"
+          },
+          {
+            "count": 119,
+            "value": "american foundation for the blind",
+            "query": "Publisher:american foundation for the blind"
+          },
+          {
+            "count": 113,
+            "value": "emerald publishing",
+            "query": "Publisher:emerald publishing"
+          },
+          {
+            "count": 110,
+            "value": "johns hopkins university press",
+            "query": "Publisher:johns hopkins university press"
+          },
+          {
+            "count": 109,
+            "value": "oxford university press",
+            "query": "Publisher:oxford university press"
+          },
+          {
+            "count": 92,
+            "value": "brill academic publishers",
+            "query": "Publisher:brill academic publishers"
+          },
+          {
+            "count": 72,
+            "value": "scholastic inc.",
+            "query": "Publisher:scholastic inc."
+          },
+          {
+            "count": 70,
+            "value": "university of california press",
+            "query": "Publisher:university of california press"
+          },
+          {
+            "count": 68,
+            "value": "films media group",
+            "query": "Publisher:films media group"
+          },
+          {
+            "count": 61,
+            "value": "university of nebraska press",
+            "query": "Publisher:university of nebraska press"
+          },
+          { "count": 60, "value": "mit press", "query": "Publisher:mit press" },
+          {
+            "count": 29,
+            "value": "random house",
+            "query": "Publisher:random house"
+          },
+          {
+            "count": 23,
+            "value": "rising moon",
+            "query": "Publisher:rising moon"
+          },
+          {
+            "count": 22,
+            "value": "houghton mifflin",
+            "query": "Publisher:houghton mifflin"
+          },
+          {
+            "count": 22,
+            "value": "the academy of political science, columbia university",
+            "query": "Publisher:the academy of political science\\, columbia university"
+          },
+          {
+            "count": 21,
+            "value": "candlewick press",
+            "query": "Publisher:candlewick press"
+          },
+          {
+            "count": 16,
+            "value": "the macmillan company",
+            "query": "Publisher:the macmillan company"
+          },
+          {
+            "count": 15,
+            "value": "yale university press",
+            "query": "Publisher:yale university press"
+          },
+          {
+            "count": 9,
+            "value": "alfred a. knopf",
+            "query": "Publisher:alfred a. knopf"
+          },
+          {
+            "count": 8,
+            "value": "academic press",
+            "query": "Publisher:academic press"
+          },
+          {
+            "count": 7,
+            "value": "university of texas press",
+            "query": "Publisher:university of texas press"
+          }
+        ]
+      },
+      {
+        "id": "Language",
+        "label": "Language",
+        "values": [
+          { "count": 88124, "value": "english", "query": "Language:english" },
+          { "count": 158, "value": "spanish", "query": "Language:spanish" },
+          { "count": 149, "value": "korean", "query": "Language:korean" },
+          { "count": 105, "value": "chinese", "query": "Language:chinese" },
+          { "count": 55, "value": "french", "query": "Language:french" },
+          { "count": 49, "value": "german", "query": "Language:german" },
+          { "count": 38, "value": "russian", "query": "Language:russian" },
+          {
+            "count": 34,
+            "value": "portuguese",
+            "query": "Language:portuguese"
+          },
+          {
+            "count": 33,
+            "value": "no linguistic content",
+            "query": "Language:no linguistic content"
+          },
+          {
+            "count": 29,
+            "value": "undetermined",
+            "query": "Language:undetermined"
+          },
+          { "count": 27, "value": "turkish", "query": "Language:turkish" },
+          { "count": 22, "value": "italian", "query": "Language:italian" },
+          {
+            "count": 16,
+            "value": "multiple languages",
+            "query": "Language:multiple languages"
+          },
+          {
+            "count": 14,
+            "value": "spanish; castilian",
+            "query": "Language:spanish; castilian"
+          },
+          { "count": 13, "value": "japanese", "query": "Language:japanese" },
+          { "count": 6, "value": "croatian", "query": "Language:croatian" },
+          {
+            "count": 6,
+            "value": "greek, ancient (to 1453)",
+            "query": "Language:greek\\, ancient \\(to 1453\\)"
+          },
+          { "count": 6, "value": "polish", "query": "Language:polish" },
+          { "count": 5, "value": "romanian", "query": "Language:romanian" },
+          { "count": 5, "value": "swedish", "query": "Language:swedish" },
+          { "count": 4, "value": "arabic", "query": "Language:arabic" },
+          { "count": 4, "value": "czech", "query": "Language:czech" },
+          { "count": 4, "value": "thai", "query": "Language:thai" },
+          {
+            "count": 3,
+            "value": "greek, modern (1453- )",
+            "query": "Language:greek\\, modern \\(1453- \\)"
+          },
+          { "count": 3, "value": "latin", "query": "Language:latin" },
+          { "count": 3, "value": "persian", "query": "Language:persian" },
+          { "count": 3, "value": "serbian", "query": "Language:serbian" },
+          { "count": 2, "value": "afrikaans", "query": "Language:afrikaans" },
+          {
+            "count": 2,
+            "value": "dutch; flemish",
+            "query": "Language:dutch; flemish"
+          },
+          { "count": 2, "value": "hebrew", "query": "Language:hebrew" },
+          { "count": 2, "value": "lithuanian", "query": "Language:lithuanian" },
+          { "count": 2, "value": "slovenian", "query": "Language:slovenian" },
+          { "count": 1, "value": "bulgarian", "query": "Language:bulgarian" },
+          { "count": 1, "value": "dutch", "query": "Language:dutch" },
+          {
+            "count": 1,
+            "value": "eskimo languages",
+            "query": "Language:eskimo languages"
+          },
+          { "count": 1, "value": "hungarian", "query": "Language:hungarian" },
+          { "count": 1, "value": "icelandic", "query": "Language:icelandic" },
+          { "count": 1, "value": "indonesian", "query": "Language:indonesian" },
+          { "count": 1, "value": "kurdish", "query": "Language:kurdish" },
+          { "count": 1, "value": "latvian", "query": "Language:latvian" },
+          { "count": 1, "value": "malay", "query": "Language:malay" },
+          {
+            "count": 1,
+            "value": "sign languages",
+            "query": "Language:sign languages"
+          }
+        ]
+      },
+      {
+        "id": "SubjectGeographic",
+        "label": "Geography",
+        "values": [
+          {
+            "count": 3150,
+            "value": "united states",
+            "query": "SubjectGeographic:united states"
+          },
+          {
+            "count": 540,
+            "value": "korea",
+            "query": "SubjectGeographic:korea"
+          },
+          {
+            "count": 521,
+            "value": "korea (south)",
+            "query": "SubjectGeographic:korea \\(south\\)"
+          },
+          {
+            "count": 413,
+            "value": "china",
+            "query": "SubjectGeographic:china"
+          },
+          {
+            "count": 372,
+            "value": "new york (state)",
+            "query": "SubjectGeographic:new york \\(state\\)"
+          },
+          {
+            "count": 285,
+            "value": "new york (n.y.)",
+            "query": "SubjectGeographic:new york \\(n.y.\\)"
+          },
+          {
+            "count": 249,
+            "value": "california",
+            "query": "SubjectGeographic:california"
+          },
+          {
+            "count": 196,
+            "value": "japan",
+            "query": "SubjectGeographic:japan"
+          },
+          {
+            "count": 185,
+            "value": "great britain",
+            "query": "SubjectGeographic:great britain"
+          },
+          {
+            "count": 167,
+            "value": "india",
+            "query": "SubjectGeographic:india"
+          },
+          {
+            "count": 119,
+            "value": "england",
+            "query": "SubjectGeographic:england"
+          },
+          {
+            "count": 77,
+            "value": "moon -- juvenile fiction",
+            "query": "SubjectGeographic:moon -- juvenile fiction"
+          },
+          { "count": 68, "value": "texas", "query": "SubjectGeographic:texas" },
+          {
+            "count": 53,
+            "value": "france",
+            "query": "SubjectGeographic:france"
+          },
+          { "count": 45, "value": "moon", "query": "SubjectGeographic:moon" },
+          {
+            "count": 36,
+            "value": "germany",
+            "query": "SubjectGeographic:germany"
+          },
+          {
+            "count": 36,
+            "value": "moon -- fiction",
+            "query": "SubjectGeographic:moon -- fiction"
+          },
+          {
+            "count": 26,
+            "value": "solar system",
+            "query": "SubjectGeographic:solar system"
+          },
+          { "count": 24, "value": "iraq", "query": "SubjectGeographic:iraq" },
+          {
+            "count": 24,
+            "value": "moon -- exploration",
+            "query": "SubjectGeographic:moon -- exploration"
+          },
+          {
+            "count": 20,
+            "value": "colorado",
+            "query": "SubjectGeographic:colorado"
+          },
+          {
+            "count": 14,
+            "value": "moon -- juvenile literature",
+            "query": "SubjectGeographic:moon -- juvenile literature"
+          },
+          {
+            "count": 11,
+            "value": "colorado -- fiction",
+            "query": "SubjectGeographic:colorado -- fiction"
+          },
+          {
+            "count": 11,
+            "value": "moon -- photographs from space",
+            "query": "SubjectGeographic:moon -- photographs from space"
+          },
+          {
+            "count": 11,
+            "value": "outer space -- exploration",
+            "query": "SubjectGeographic:outer space -- exploration"
+          },
+          {
+            "count": 11,
+            "value": "texas -- fiction",
+            "query": "SubjectGeographic:texas -- fiction"
+          },
+          {
+            "count": 9,
+            "value": "outer space -- exploration -- juvenile literature",
+            "query": "SubjectGeographic:outer space -- exploration -- juvenile literature"
+          },
+          {
+            "count": 9,
+            "value": "solar system -- juvenile literature",
+            "query": "SubjectGeographic:solar system -- juvenile literature"
+          },
+          {
+            "count": 9,
+            "value": "wisconsin",
+            "query": "SubjectGeographic:wisconsin"
+          },
+          {
+            "count": 7,
+            "value": "moon -- drama",
+            "query": "SubjectGeographic:moon -- drama"
+          },
+          {
+            "count": 7,
+            "value": "moon -- maps",
+            "query": "SubjectGeographic:moon -- maps"
+          },
+          {
+            "count": 7,
+            "value": "saturn (planet) -- juvenile literature",
+            "query": "SubjectGeographic:saturn \\(planet\\) -- juvenile literature"
+          },
+          {
+            "count": 6,
+            "value": "earth (planet)",
+            "query": "SubjectGeographic:earth \\(planet\\)"
+          },
+          {
+            "count": 6,
+            "value": "earth (planet) -- juvenile literature",
+            "query": "SubjectGeographic:earth \\(planet\\) -- juvenile literature"
+          },
+          {
+            "count": 6,
+            "value": "moon -- exploration -- juvenile literature",
+            "query": "SubjectGeographic:moon -- exploration -- juvenile literature"
+          },
+          {
+            "count": 6,
+            "value": "outer space",
+            "query": "SubjectGeographic:outer space"
+          },
+          {
+            "count": 5,
+            "value": "jupiter (planet) -- juvenile literature",
+            "query": "SubjectGeographic:jupiter \\(planet\\) -- juvenile literature"
+          },
+          {
+            "count": 5,
+            "value": "mars (planet)",
+            "query": "SubjectGeographic:mars \\(planet\\)"
+          },
+          {
+            "count": 5,
+            "value": "moon -- folklore",
+            "query": "SubjectGeographic:moon -- folklore"
+          },
+          {
+            "count": 5,
+            "value": "moon -- religious aspects",
+            "query": "SubjectGeographic:moon -- religious aspects"
+          },
+          {
+            "count": 5,
+            "value": "southern states -- social life and customs -- fiction",
+            "query": "SubjectGeographic:southern states -- social life and customs -- fiction"
+          },
+          {
+            "count": 4,
+            "value": "craters of the moon national monument (idaho) -- management",
+            "query": "SubjectGeographic:craters of the moon national monument \\(idaho\\) -- management"
+          },
+          {
+            "count": 4,
+            "value": "moon -- juvenile poetry",
+            "query": "SubjectGeographic:moon -- juvenile poetry"
+          },
+          {
+            "count": 4,
+            "value": "moon -- observations",
+            "query": "SubjectGeographic:moon -- observations"
+          },
+          {
+            "count": 4,
+            "value": "moon -- observers' manuals",
+            "query": "SubjectGeographic:moon -- observers' manuals"
+          },
+          {
+            "count": 4,
+            "value": "moon -- phases -- juvenile literature",
+            "query": "SubjectGeographic:moon -- phases -- juvenile literature"
+          },
+          {
+            "count": 4,
+            "value": "moon -- poetry",
+            "query": "SubjectGeographic:moon -- poetry"
+          },
+          {
+            "count": 4,
+            "value": "new york (n.y.) -- juvenile fiction",
+            "query": "SubjectGeographic:new york \\(n.y.\\) -- juvenile fiction"
+          },
+          {
+            "count": 4,
+            "value": "oklahoma -- fiction",
+            "query": "SubjectGeographic:oklahoma -- fiction"
+          },
+          {
+            "count": 4,
+            "value": "pluto (dwarf planet) -- juvenile literature",
+            "query": "SubjectGeographic:pluto \\(dwarf planet\\) -- juvenile literature"
+          }
+        ]
+      },
+      {
+        "id": "LocationLibrary",
+        "label": "Location",
+        "values": [
+          {
+            "count": 927,
+            "value": "Abilene Public Library - Main",
+            "query": "LocationLibrary:Abilene Public Library - Main"
+          },
+          {
+            "count": 803,
+            "value": "Abilene Christian University",
+            "query": "LocationLibrary:Abilene Christian University"
+          },
+          {
+            "count": 646,
+            "value": "Hardin-Simmons University",
+            "query": "LocationLibrary:Hardin-Simmons University"
+          },
+          {
+            "count": 554,
+            "value": "Abilene Public Library - South",
+            "query": "LocationLibrary:Abilene Public Library - South"
+          },
+          {
+            "count": 439,
+            "value": "Abilene Public Library - Mockingbird",
+            "query": "LocationLibrary:Abilene Public Library - Mockingbird"
+          },
+          {
+            "count": 304,
+            "value": "Howard Payne University",
+            "query": "LocationLibrary:Howard Payne University"
+          },
+          {
+            "count": 251,
+            "value": "Mcmurry University",
+            "query": "LocationLibrary:Mcmurry University"
+          },
+          {
+            "count": 243,
+            "value": "Hardin-Simmons University - Music",
+            "query": "LocationLibrary:Hardin-Simmons University - Music"
+          },
+          {
+            "count": 10,
+            "value": "Grace Museum Library",
+            "query": "LocationLibrary:Grace Museum Library"
+          },
+          {
+            "count": 3,
+            "value": "Center For Contemporary Arts",
+            "query": "LocationLibrary:Center For Contemporary Arts"
+          },
+          {
+            "count": 2,
+            "value": "Old Jail Art Center",
+            "query": "LocationLibrary:Old Jail Art Center"
+          }
+        ]
+      },
+      {
+        "id": "ContentProvider",
+        "label": "Content Provider",
+        "values": [
+          {
+            "count": 76373,
+            "value": "Academic Search Ultimate",
+            "query": "ContentProvider:Academic Search Ultimate"
+          },
+          {
+            "count": 6537,
+            "value": "Library, Information Science & Technology Abstracts",
+            "query": "ContentProvider:Library\\, Information Science & Technology Abstracts"
+          },
+          {
+            "count": 3921,
+            "value": "PsycINFO",
+            "query": "ContentProvider:PsycINFO"
+          },
+          {
+            "count": 3190,
+            "value": "Abilene Library Consortium Catalog",
+            "query": "ContentProvider:Abilene Library Consortium Catalog"
+          },
+          {
+            "count": 2295,
+            "value": "Research Starters",
+            "query": "ContentProvider:Research Starters"
+          }
+        ]
+      }
+    ]
+  },
+  "researchStarter": {
+    "primary": {
+      "title": { "value": "Moon.", "locale": "en" },
+      "abstract": {
+        "value": "The moon is Earth’s only natural satellite and is the largest of any satellite to its primary in the solar system (the moon is 0.020 Earths in volume and 0.012 Earths in mass). After the Jovian moon of Io, the moon is the second-densest satellite known. Its orbit takes it from between 362,600 kilometers from Earth at perigee to 405,400 kilometers from Earth at apogee, with an orbital period of 27.32 days, a lunar month."
+      },
+      "source": "Salem Press Encyclopedia",
+      "publicationDate": "20190301",
+      "shortDBName": "ers",
+      "an": "94895803",
+      "links": { "fullTextLinks": [], "imageLinks": [] }
+    },
+    "otherTopics": [
+      {
+        "title": { "value": "Moon: Research Starters Topics.", "locale": "en" },
+        "an": "99436636",
+        "shortDBName": "ers"
+      },
+      {
+        "title": { "value": "Lunar mathematics.", "locale": "en" },
+        "an": "94981859",
+        "shortDBName": "ers"
+      }
+    ]
+  }
+}
